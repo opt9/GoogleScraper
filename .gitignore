@@ -27,6 +27,7 @@ images/
 
 # PyCharm editor
 .idea/
+*.iml
 
 # ignore tests
 nonpub_tests/
